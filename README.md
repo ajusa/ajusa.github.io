@@ -8,3 +8,4 @@ Welcome to my portfolio! Here are some favorite projects of mine.
 
 ![alt text](/screenshot1.png "Screenshot")
 [Dungeon Lord [Latest Build]](/dungeon)
+[Dungeon Lord [Assets]](/assets.zip)
